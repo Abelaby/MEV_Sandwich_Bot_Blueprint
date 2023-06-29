@@ -1,7 +1,7 @@
 # MEV_Sandwich_Bot_Blueprint
 MEV sandwich bot PoC implementation using flashbots in TypeScript
 
-Note that this doesnot yields profits
+Note that this does not yields profits
 
 # TO DO
 
